@@ -36,3 +36,5 @@ dulwich>=0.21.0
 
 # ─── 开发/测试用 (运行服务不需要; 想跑 tests/ 才装) ───
 # pip install pytest pytest-asyncio
+
+mcp<2
